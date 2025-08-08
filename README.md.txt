@@ -31,5 +31,5 @@ The dataset used is the famous [Iris dataset](https://www.kaggle.com/api/v1/data
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/FrostRookie/Iris_Classification.git
+git clone https://github.com/FrostRookie/Iris-Flower-Classification.git
 cd Iris-Flower-Classification
